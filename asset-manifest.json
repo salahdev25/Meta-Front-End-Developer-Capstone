@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Meta-Front-End-Developer-Capstone/static/css/main.fe95c58c.css",
-    "main.js": "/Meta-Front-End-Developer-Capstone/static/js/main.4732f6a7.js",
+    "main.css": "/Meta-Front-End-Developer-Capstone/static/css/main.ea9033a8.css",
+    "main.js": "/Meta-Front-End-Developer-Capstone/static/js/main.ba985e37.js",
     "static/js/453.5f28250d.chunk.js": "/Meta-Front-End-Developer-Capstone/static/js/453.5f28250d.chunk.js",
     "static/media/greekSalad.jpg": "/Meta-Front-End-Developer-Capstone/static/media/greekSalad.f776de1cc2d2c307c856.jpg",
     "static/media/restaurantFood.jpg": "/Meta-Front-End-Developer-Capstone/static/media/restaurantFood.27947a535e237da9bb95.jpg",
@@ -11,12 +11,12 @@
     "static/media/marioAdrian.jpg": "/Meta-Front-End-Developer-Capstone/static/media/marioAdrian.b21ed95d00d8b04dfef5.jpg",
     "static/media/littlelemon_logo.png": "/Meta-Front-End-Developer-Capstone/static/media/littlelemon_logo.d4cae6fac8384c2dae04.png",
     "index.html": "/Meta-Front-End-Developer-Capstone/index.html",
-    "main.fe95c58c.css.map": "/Meta-Front-End-Developer-Capstone/static/css/main.fe95c58c.css.map",
-    "main.4732f6a7.js.map": "/Meta-Front-End-Developer-Capstone/static/js/main.4732f6a7.js.map",
+    "main.ea9033a8.css.map": "/Meta-Front-End-Developer-Capstone/static/css/main.ea9033a8.css.map",
+    "main.ba985e37.js.map": "/Meta-Front-End-Developer-Capstone/static/js/main.ba985e37.js.map",
     "453.5f28250d.chunk.js.map": "/Meta-Front-End-Developer-Capstone/static/js/453.5f28250d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe95c58c.css",
-    "static/js/main.4732f6a7.js"
+    "static/css/main.ea9033a8.css",
+    "static/js/main.ba985e37.js"
   ]
 }
