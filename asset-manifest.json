@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/css/main.97d33e34.css",
+    "main.js": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/js/main.54c81e1e.js",
+    "static/js/453.5f28250d.chunk.js": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/js/453.5f28250d.chunk.js",
+    "static/media/greekSalad.jpg": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/media/greekSalad.f776de1cc2d2c307c856.jpg",
+    "static/media/restaurantFood.jpg": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/media/restaurantFood.27947a535e237da9bb95.jpg",
+    "static/media/bruschetta.jpg": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/media/bruschetta.db33d0be3291330ac054.jpg",
+    "static/media/lemonDessert.jpg": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/media/lemonDessert.aa0c3ceefabcfec837c6.jpg",
+    "static/media/restaurantInterior.jpg": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/media/restaurantInterior.cf65369e74635d260c96.jpg",
+    "static/media/marioAdrian.jpg": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/media/marioAdrian.b21ed95d00d8b04dfef5.jpg",
+    "static/media/littlelemon_logo.png": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/media/littlelemon_logo.d4cae6fac8384c2dae04.png",
+    "index.html": "/salahdev25/Meta-Front-End-Developer-Capstone.git/index.html",
+    "main.97d33e34.css.map": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/css/main.97d33e34.css.map",
+    "main.54c81e1e.js.map": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/js/main.54c81e1e.js.map",
+    "453.5f28250d.chunk.js.map": "/salahdev25/Meta-Front-End-Developer-Capstone.git/static/js/453.5f28250d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d33e34.css",
+    "static/js/main.54c81e1e.js"
+  ]
+}
